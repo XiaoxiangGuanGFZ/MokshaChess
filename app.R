@@ -1,4 +1,4 @@
-# ---- moksha chess ----
+# ---- Moksha chess ----
 # 解脱棋
 
 library(shiny) 
@@ -812,9 +812,9 @@ ui <- tagList(
                  sidebarLayout(
                      sidebarPanel(
                          h2("解脱棋索引系统", align = 'center'),
-                         h3("The Indexing System for Liberation Chess", align = 'center'),
+                         h3("The Indexing System for Moksha Chess", align = 'center'),
                          tags$hr(),
-                         h5('Author：Shane Guan'),
+                         h5('Author：Xiaoxiang Guan (管晓祥)'),
                          #h5('地址：山西省忻州市台怀镇护银沟村'),
                          h5('Contact：xxguan_hhu@163.com'),
                      ),
