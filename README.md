@@ -7,4 +7,4 @@ This web-based application is written by R project, together with shiny package,
 Via https://shaneguan.shinyapps.io/LiberationChessIndexingSystem/ to visit the indexing system. It is accessible from either personal laptop or smartphone.
 
 ## Author (作者)
-Xiaoxiang Guan (管晓祥)
+[Xiaoxiang Guan (管晓祥)](xxguan_hhu@163.com)
